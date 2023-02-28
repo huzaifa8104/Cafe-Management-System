@@ -5,8 +5,8 @@ A fully functional and responsive cafe management system desktop application wit
 
 
 
-![Sample Image](sample_image (1).png )
+![Sample Image](sample_image_1.png )
 
-![Sample Image](sample_image (2).png )
+![Sample Image](sample_image_2.png )
 
-![Sample Image](sample_image (3).png )
+![Sample Image](sample_image_3.png )

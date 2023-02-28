@@ -1,0 +1,13 @@
+		  Receipt
+
+=====================================
+Item			Qty.	Cost
+Green Tea			 1	  30
+Milk Tea			 1	  20
+Ginger Tea			 2	  50
+-----------------------------------------------
+Total Cost				=100
+Service Cost				=20
+Sub Cost				=120
+Paid Tax				=9.6
+Total				=129.6

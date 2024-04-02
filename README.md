@@ -40,7 +40,7 @@ If you encounter any issues or have feedback on the Cafe Management System, plea
 
 ## License
 
-The Cafe Management System is released under the [insert license name] license. Please refer to the LICENSE file for more information on the terms and conditions of use.
+The Cafe Management System is released under the MIT license. Please refer to the LICENSE file for more information on the terms and conditions of use.
 
 ## Conclusion
 
